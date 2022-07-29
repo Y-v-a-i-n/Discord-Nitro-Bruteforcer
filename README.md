@@ -1,6 +1,6 @@
 # Discord Nitro BruteForcer
 
-Un code nitro classique fait 16 caractères (62 caractères possibles), en comptant environ 10 000 nitros non claim .
+Un code nitro classique fait 16 caractères et un code nitro game fait 24 caractères (62 caractères possibles), en comptant environ 10 000 nitros non claim .
 ```js
 //Nitro classique : 
 62¹⁶=4.7672402e+28
